@@ -1,0 +1,13 @@
+# 统一换行符，避免 Windows / macOS / Linux 协作时整文件 diff
+* text=auto eol=lf
+
+# 二进制文件不做换行转换
+*.png  binary
+*.ico  binary
+*.icns binary
+*.zip  binary
+*.exe  binary
+
+# 让 GitHub 正确识别语言构成
+*.scss linguist-language=SCSS
+package-lock.json -diff linguist-generated
