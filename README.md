@@ -59,7 +59,7 @@ wemby 是一个面向 [Emby](https://emby.media/) 媒体服务器的桌面客户
 
 ## ⬇️ 下载安装
 
-前往 [**Releases**](../../releases) 页面下载，按需选择：
+前往 [**Releases**](https://github.com/xikkcn/wemby/releases) 页面下载，按需选择：
 
 | 文件 | 说明 |
 | --- | --- |
