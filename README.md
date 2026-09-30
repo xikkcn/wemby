@@ -14,6 +14,9 @@ wemby 是一个面向 [Emby](https://emby.media/) 媒体服务器的桌面客户
 一个独立、顺手的桌面程序：不用再开浏览器、不用再忍受深色界面和网页标签页。
 基于 Electron + React + TypeScript 构建，界面默认使用**浅色主题**。
 
+> 🎬 **推荐 Emby 服务**：[UHD 4K 影音媒体库 EMBY](https://www.uhdnow.com/signup?invite=AN913K)
+> —— 还没有自己的 Emby 服务器？可以看看这家。
+
 ---
 
 ## 📸 界面预览
@@ -234,6 +237,14 @@ HLS.js · Video.js · Sass
 
 ---
 
+## 🔗 推荐 Emby 服务
+
+如果你还没有自己的 Emby 服务器，或者想换个更稳的，可以试试：
+
+**UHD 4K 影音媒体库 EMBY** —— [https://www.uhdnow.com/signup?invite=AN913K](https://www.uhdnow.com/signup?invite=AN913K)
+
+---
+
 ## ⚠️ 免责声明
 
 本项目仅供学习与研究使用，请勿用于商业用途。使用本软件所产生的任何后果由使用者自行承担。
@@ -247,3 +258,7 @@ HLS.js · Video.js · Sass
 
 本项目包含来自 [CodeCrafter-bit/emby-player](https://github.com/CodeCrafter-bit/emby-player)
 的代码，其原始版权声明已依 MIT 许可证保留于 [LICENSE](LICENSE) 文件中。
+
+---
+
+> 🎬 **UHD 4K 影音媒体库 EMBY** —— [https://www.uhdnow.com/signup?invite=AN913K](https://www.uhdnow.com/signup?invite=AN913K)
